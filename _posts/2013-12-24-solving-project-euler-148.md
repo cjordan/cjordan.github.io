@@ -60,7 +60,7 @@ Compile[^1] and run that as `./pascal_divbyn 3 27`, for example:
 
 This shows you all the elements of the first 27 rows of Pascal's triangle that are not divisible by 3. Very cute.
 
-The pattern is reasonably obvious from here. The powers of your prime (in this case, 3) are important; that's where the fractal pattern repeats (is that the right way to describe it?). So, back to the problem - we develop a formula involving triangular numbers that easily describes all numbers divisible by 7 up to the highest power of 7 less than $10^9$. But what do you do for those rows between $7^{\log_{7}10^{9}}$ and $10^9$? If you tried to brute force it, you would have $10^9$ mod operations on *just the last row*. There must be a better way.
+The pattern is reasonably obvious from here. The powers of your prime (in this case, 3) are important; that's where the fractal pattern repeats (is that the right way to describe it?). So, back to the problem - we develop a formula involving triangular numbers that easily describes all numbers divisible by 7 up to the highest power of 7 less than $10^9$. But what do you do for those rows between $7^{\lfloor\log_{7}10^{9}\rfloor}$ and $10^9$? If you tried to brute force it, you would have $10^9$ mod operations on *just the last row*. There must be a better way.
 
 If you sum each of these rows and print the result (such as with the following line):
 
