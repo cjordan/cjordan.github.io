@@ -1,0 +1,7 @@
+name: Christopher H. Jordan
+description: Personal website of Christopher H. Jordan
+
+# markdown: rdiscount
+markdown: kramdown
+permalink: pretty
+pygments: true

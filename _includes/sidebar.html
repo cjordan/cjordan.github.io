@@ -1,0 +1,30 @@
+<br />
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Recent Blog Posts</h3>
+  </div>
+  <div class="panel-body" style="margin-top: 10px">
+    {% for post in site.posts limit: 5 %}
+    <a class="btn btn-primary btn-md" role="button" style="margin-left: 10px; margin-bottom: 5px; font-family: 'Courier New'" href="{{ post.url }}">
+      &raquo {{ post.title | truncate: 25 }}
+    </a>
+    {% endfor %}
+<a class="btn btn-success btn-md" role="button" style="margin: 10px" href="/blog">All Blog Posts</a>
+  </div>
+</div>
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">About Me</h3>
+  </div>
+  <div class="panel-body">
+  <a href="/images/about_profile.jpg"><img style="margin-bottom: 10px" class="img-responsive" title="HWWS 2012 - Blue Mountains" src="/images/about_profile_cropped.jpg"></a>
+  <ul>
+    <li>Professional radio astronomer</li>
+    <li>Amateur programming junkie</li>
+    <li>Serious Linux enthusiast</li>
+    <li>General technology nerd</li>
+  </ul>
+  </div>
+</div>
