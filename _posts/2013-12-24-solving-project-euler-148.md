@@ -10,7 +10,7 @@ Because PE problems can be quite enjoyable to work out on your own, I hereby war
 
 This blog post is mostly an excuse to populate and test my website - however, I found this experience enlightening, and thought it was worth writing about. This PE problem was one that I had naively attempted to solve years ago with C, and revisited at the start of the year with Haskell. 148 is easy to understand, as so many PE problems are. The devil is in the details, and investigation reveals many curiousities. Rather prominently, if you transform Pascal's triangle element-by-element into a 1 or 0 for "not divisible" or "divisible", you will get a [Sierpinski triangle](http://en.wikipedia.org/wiki/Sierpinski_triangle). The following code illustrates this nicely:
 
-{% highlight haskell %}
+{% highlight haskell linenos=table %}
 import System.Environment
 
 pascal = iterate (\row -> zipWith (+) ([0] ++ row) (row ++ [0])) [1]
@@ -116,7 +116,7 @@ This means row 17 of Pascal's triangle contains 18 numbers that are *not* divisi
 
 So, you could be terrible (like me), and write some code that counts from $0$ to $10^9$, converts to base 7, increments and multiplies, such as below:
 
-{% highlight c %}
+{% highlight c linenos=table %}
 #include <stdio.h>
 #include <math.h>
 

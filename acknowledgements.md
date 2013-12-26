@@ -10,11 +10,16 @@ There's not enough space at the bottom of every page, so credit where credit is 
 ## Software
 
 + [Jekyll](http://jekyllrb.com/)
-+ [Liquid](http://docs.shopify.com/themes/liquid-basics)
++ [Liquid](http://docs.shopify.com/themes/liquid-basics) - As part of Jekyll.
 + [Markdown](http://daringfireball.net/projects/markdown/)
-+ [Bootstrap](http://getbootstrap.com/)
-+ [kramdown](http://kramdown.gettalong.org/index.html)
++ [Bootstrap](http://getbootstrap.com/) - Beautiful.
++ [kramdown](http://kramdown.gettalong.org/index.html) - Allows more features over RDiscount, including easy math integration with MathJax.
 + [MathJax](http://www.mathjax.org/)
++ [pygments](http://pygments.org/) - Used for code syntax highlighting. Integrates with Liquid.
+
+## Font(s)
+
++ [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) is used for the code posts, and is linked via [Google's font service](http://www.google.com/fonts/).
 
 ## Web posts
 
