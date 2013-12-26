@@ -105,12 +105,12 @@ There's definitely a pattern here! If you could generalise this up to an arbitra
 It turns out my mathematician friend[^2] knew of a very relevant theorem[^3]. It basically boils down to taking the row number of Pascal's triangle and converting it to base p (prime), adding 1 to each digit, and multiplying all digits. A couple of examples, returning to our prime 3; look at row 17 and 18:
 
 $$ 17_{10} = 122_3 $$
-$$ \gg 233 $$
-$$ \gg 18 $$
+$$ \rightarrow 233 $$
+$$ \rightarrow 18 $$
 
 $$ 18_{10} = 200_3 $$
-$$ \gg 311 $$
-$$ \gg 3 $$
+$$ \rightarrow 311 $$
+$$ \rightarrow 3 $$
 
 This means row 17 of Pascal's triangle contains 18 numbers that are *not* divisible by 3, and row 18 has 3 numbers.
 
