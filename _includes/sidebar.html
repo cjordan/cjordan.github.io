@@ -4,12 +4,14 @@
     <h3 class="panel-title">Recent Blog Posts</h3>
   </div>
   <div class="panel-body" style="margin-top: 10px">
-    {% for post in site.posts limit: 5 %}
-    <a class="btn btn-primary btn-md" role="button" style="margin-left: 10px; margin-bottom: 5px; font-family: 'Courier New'" href="{{ post.url }}">
-      &raquo {{ post.title | truncate: 25 }}
-    </a>
-    {% endfor %}
-<a class="btn btn-success btn-md" role="button" style="margin: 10px" href="/blog">All Blog Posts</a>
+    <div class="btn-group-vertical">
+      {% for post in site.posts limit: 5 %}
+      <a class="btn btn-primary btn-md" role="button" style="margin-left: 10px; margin-bottom: 5px; margin-right: -5px; font-family: 'Inconsolata" href="{{ post.url }}">
+        &raquo {{ post.title | truncate: 28 }}
+      </a>
+      {% endfor %}
+      <a class="btn btn-success btn-md" role="button" style="margin: 10px; margin-top: 5px" href="/blog">All Blog Posts</a>
+    </div>
   </div>
 </div>
 
