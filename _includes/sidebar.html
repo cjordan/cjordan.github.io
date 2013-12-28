@@ -1,32 +1,32 @@
-<br />
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">Recent Blog Posts</h3>
-  </div>
-  <div class="panel-body" style="margin-top: 10px">
-    <div class="btn-group-vertical">
-      {% for post in site.posts limit: 5 %}
-      <a class="btn btn-primary btn-md" role="button" style="margin-left: 10px; margin-bottom: 5px; margin-right: -5px; font-family: 'Inconsolata" href="{{ post.url }}">
-        &raquo {{ post.title | truncate: 28 }}
-      </a>
-      {% endfor %}
-      <a class="btn btn-success btn-md" role="button" style="margin: 10px; margin-top: 5px" href="/blog">All Blog Posts</a>
-    </div>
+<div class="panel-body" style="margin-top: 20px">
+  <div class="list-group">
+    <li class="list-group-item default">
+      <h3 class="panel-title">Recent Blog Posts</h3>
+    </li>
+
+    {% for post in site.posts limit: 5 %}
+    <a class="list-group-item active" href="{{ post.url }}">
+      &raquo {{ post.title | truncate: 100 }}
+    </a>
+    {% endfor %}
+
+    <a class="list-group-item success" href="/blog">
+      &raquo All Blog Posts
+    </a>
   </div>
 </div>
-
 
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">About Me</h3>
   </div>
   <div class="panel-body">
-  <a href="/images/about_profile.jpg"><img style="margin-bottom: 10px" class="img-responsive" title="HWWS 2012 - Blue Mountains" src="/images/about_profile_cropped.jpg"></a>
-  <ul>
-    <li>Professional radio astronomer</li>
-    <li>Amateur programming junkie</li>
-    <li>Serious Linux enthusiast</li>
-    <li>General technology nerd</li>
-  </ul>
+    <a href="/images/about_profile.jpg"><img style="margin-bottom: 10px" class="img-responsive" title="HWWS 2012 - Blue Mountains" src="/images/about_profile_cropped.jpg"></a>
+    <ul class="list-group" style="margin: -1px; margin-top: -10px">
+      <li class="list-group-item">&bull; Professional radio astronomer</li>
+      <li class="list-group-item">&bull; Amateur programming junkie</li>
+      <li class="list-group-item">&bull; Serious Linux enthusiast</li>
+      <li class="list-group-item">&bull; General technology nerd</li>
+    </ul>
   </div>
 </div>
