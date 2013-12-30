@@ -21,7 +21,7 @@ Jordan, C. H.; Walsh, A. J.; Lowe, V.; Lo, N.; Purcell, C. R.; Voronkov, M. A.; 
 
 2013, MNRAS, 429, 469
 
-ADS: [2013MNRAS.429..469J](http://adsabs.harvard.edu/abs/2013MNRAS.429..469J)
+[ADS](http://adsabs.harvard.edu/abs/2013MNRAS.429..469J) &bull; [Scholar](http://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=bdf2dS8AAAAJ&citation_for_view=bdf2dS8AAAAJ:u-x6o8ySG0sC)
 
 * * *
 
@@ -32,7 +32,7 @@ Foster, J. B.; Rathborne, J. M.; Sanhueza, P.; Claysmith, C.; Whitaker, J. S.; J
 
 2013, PASA, 30, 38
 
-ADS: [2013PASA...30...38F](http://adsabs.harvard.edu/abs/2013PASA...30...38F)
+[ADS](http://adsabs.harvard.edu/abs/2013PASA...30...38F) &bull; [Scholar](http://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=bdf2dS8AAAAJ&citation_for_view=bdf2dS8AAAAJ:d1gkVwhDpl0C)
 
 <br />
 
@@ -42,15 +42,17 @@ Walsh, A. J.; Purcell, C.; Longmore, S.; Jordan, C. H.; Lowe, V.
 
 2012, PASA, 29, 262
 
-ADS: [2012PASA...29..262W](http://adsabs.harvard.edu/abs/2012PASA...29..262W)
+[ADS](http://adsabs.harvard.edu/abs/2012PASA...29..262W) &bull; [Scholar](http://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=bdf2dS8AAAAJ&citation_for_view=bdf2dS8AAAAJ:u5HHmVD_uO8C)
 
 * * *
 
 # Posters
 **MALT-45: The Galactic plane in 7mm**
 
+Jordan, Christopher; Walsh, Andrew; Voronkov, Maxim; Ellingsen, Simon
+
 *Presented at [Protostars & Planets VI](http://www.mpia-hd.mpg.de/homes/ppvi/) in Heidelberg, Germany*
 
-ADS: [2013prpl.conf1B059J](http://adsabs.harvard.edu/abs/2013prpl.conf1B059J)
+[ADS](http://adsabs.harvard.edu/abs/2013prpl.conf1B059J) &bull; [Scholar](http://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=bdf2dS8AAAAJ&citation_for_view=bdf2dS8AAAAJ:9yKSN-GCB0IC)
 
 <br />
