@@ -14,10 +14,15 @@ It turns out there's a neat piece of software called [xdotool](http://www.semico
 
 The way it works is by moving the mouse and clicking on various buttons and menus in a specific order. Coordinates for each button and so forth are determined by screenshots. Windows are easily moved and resized in the script also.
 
-My script is far from perfect, but hopefully it's easy enough to read and alter for personal preference. Of course, I will make improvements over time. You can find it on my GitHub [here](https://github.com/cjordan/astro-scripts/blob/master/kvis-setup.rb).
+My script is far from perfect, but hopefully it's easy enough to read and alter for personal preference. Of course, I will make improvements over time. You can find it on my GitHub <s>here</s>. **EDIT: See update below.**
 
 Finally, here it is in action. I hope this helps people.
 
 <img class="img-responsive" src="/images/posts/kvis.gif">
 
 If you want to set your own various kvis options, I have saved some of the screenshots for default kvis windows as png files [here](https://www.dropbox.com/sh/mxn86dhuk34hvet/VuC_AqEQDz).
+
+* * *
+
+### Updated: 04/01/14
+I've now moved this project into it's own GitHub repo [here](https://github.com/cjordan/kvis-setup). Please follow the Readme and discuss any issues you have over there.
