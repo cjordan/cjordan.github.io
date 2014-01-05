@@ -4,10 +4,19 @@ layout: default
 ---
 
 {% for post in site.posts %}
-<div class="well" style="padding-top: 0px">
-    <a href="{{ post.url }}">
-        <h2>{{ post.title }}</h2>
-    </a>
-        {{ post.content | strip_html | truncate: 500 }}
-</div>
+  <div class="panel panel-primary">
+    <div class="panel-heading">
+      <a href="{{ post.url }}" style="color: #fff">
+      <h3 class="panel-title">{{ post.title }}</h3>
+      </a>
+    </div>
+
+    <div class="panel-body">
+      {{ post.content | strip_html | truncate: 500 }}
+    </div>
+
+    <div class="panel-footer">
+      <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}"></a>
+    </div>
+  </div>
 {% endfor %}

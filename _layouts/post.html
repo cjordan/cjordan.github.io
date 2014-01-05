@@ -1,18 +1,30 @@
 {% include header.html %}
 <div class="row">
   <div class="col-md-9">
-    <br />
-    <div class="well" style="padding-top: 10px">
-      <h2>{{ page.title }}</h2>
-      <p class="meta">Posted: {{ page.date | date_to_string }}</p>
+    <div class="page-header">
+      <h2>
+        {{ page.title }}<br />
+        <small>
+          Posted: {{ page.date | date_to_string }}
+        </small>
+      </h2>
     </div>
     <br />
     <div class="post">
       {{ content }}
     </div>
+
+    <!-- disqus -->
+    <br />
+    <div id="disqus_thread"></div>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
   </div>
   <div class="col-md-3">
     {% include sidebar.html %}
   </div>
 </div>
+
+{% include post_footer.html %}
 {% include footer.html %}
