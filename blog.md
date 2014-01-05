@@ -7,7 +7,7 @@ layout: default
   <div class="panel panel-primary">
     <div class="panel-heading">
       <a href="{{ post.url }}" style="color: #fff">
-      <h3 class="panel-title">{{ post.title }}</h3>
+        <h3 class="panel-title">{{ post.title }}</h3>
       </a>
     </div>
 
