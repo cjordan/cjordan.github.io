@@ -60,7 +60,7 @@ At least, this is relatively obvious and well understood in the low mass case of
     </div>
     <div class="col-md-5">
         <a href="/images/research-page/Pillars_of_Creation.jpeg">
-            <img class="img-responsive" title="'Pillars of Creation'" src="/images/research-page/Pillars_of_Creation.jpeg">
+            <img class="img-responsive" title="Eagle Nebula - Pillars of Creation" src="/images/research-page/Pillars_of_Creation.jpeg">
     </a>
 
     Image credit: <a href="www.nasa.gov">NASA</a>, Jeff Hester, and Paul Scowen (Arizona State University)
@@ -95,13 +95,11 @@ Wow, how do these freaks come about? This is the field of research known as high
 
 # MALT-45
 
-### Dense gas
-
 <img class="img-responsive" src="/images/research-page/cs.png">
 
 This is where I enter the field of research. One product of my work I am particularly proud of is the above image. This is carbon monosulfide (CS) J=1-0 mapped by MALT-45. Regarding star formation, dense gas highlights where stars are born. The CS we have mapped is particularly useful, as it is only seen in very dense regions. Effectively, we are filtering the Galaxy for really dense clouds, aiding the search and understanding for HMSF.
 
-MALT-45 (Millimetre Astronomers Legacy Team - 45 GHz) is a sensitive, untargeted survey of the Galactic plane for HMSF in the 7mm waveband (which is roughly 45 GHz). "Untargeted" refers to the survey's mapping technique - a region is selected, and every point in the sky is given equal telescope exposure. This is important to avoid any bias toward known, well studied regions, potentially revealing less obvious cases of HMSF.
+MALT-45 (Millimetre Astronomers Legacy Team - 45 GHz) is a sensitive, untargeted survey of the Galactic plane for HMSF in the 7mm waveband (which is roughly 45 GHz). "Untargeted" refers to the survey's mapping technique - a region is selected, and every point in the sky is given equal telescope exposure. This is important to avoid any bias toward known, well studied regions, potentially revealing less obvious cases of HMSF. MALT-45 is conducted upon the [Australia Telescope Compact Array](http://www.narrabri.atnf.csiro.au/) (ATCA).
 
 To date, 5 square-degrees have been mapped ($\text{l} = 330 - 335, \text{b} = \pm0.5$), as this amount of data was more than sufficient for the scope of my PhD thesis. My thesis will present data on:
 
@@ -117,13 +115,41 @@ More detailed information on MALT-45 can be obtained through my [publications](/
 
 ### Masers
 
-Masers can be thought of like microwave-frequency lasers, occuring naturally in space. Star formation regions and stars themselves can exhibit maser emission in various ways, owing to their energetic mechanisms.
+Masers can be thought of as microwave-frequency lasers, occuring naturally in space. Star formation regions and stars themselves can exhibit maser emission in various ways, owing to their energetic properties.
 
-Of particular interest to our research are the Class II methanol masers - these have been proven to be associated **only** with HMSF. MALT-45 extends the methanol maser investigation by searching for the Class I cousin. Not every masing molecule has a class "I" and "II," but methanol is particularly wonderful for this reason. Class II emission occurs very near the YSO during accretion, due to the illumination. Class I is collisionally-excited, however, and tends to be quite offset from the actual accretion.
+Of particular interest to our research are the Class II methanol masers - these have been demonstrated to be associated **only** with HMSF. MALT-45 extends the methanol maser investigation by searching for the Class I cousin. Not every masing molecule has a class "I" and "II," but methanol is particularly wonderful, as both are associated with star formation. Class II emission occurs very near a YSO during accretion, excited by the illumination. Class I is collisionally excited, however, and tends to be quite offset from the "site" of star formation. Class I masers are an active topic of study, but are still poorly understood.
 
-MALT-45 searches for Class I masers in an efficient and sensitive way - all other searches have been targeted towards known regions. Within the region MALT-45 has mapped for my PhD, approximately 60 new Class I methanol masers have been discovered.
+MALT-45 searches for Class I masers in an efficient and sensitive way; all other searches have been targeted towards known regions. Because we are finding new Class I masers away from known regions, we may better better understand what they mean. Within the region MALT-45 has mapped for my PhD, approximately 60 new Class I methanol masers have been discovered.
+
+Silicon monoxide is another masing molecule that MALT-45 surveys. It is commonly associated with [evolved](http://en.wikipedia.org/wiki/OH/IR_star) stars, but has been seen in a few star formation regions too. MALT-45 has found around 50 of these in the first survey region.
 
 * * *
 
-# SHIRTS
-Work with Courtney Jones
+### Technical challenges
+
+MALT-45 is pioneering in a few ways. This project "fills the gap" by undertaking a large-scale mapping of $\text{CS}$, as well as searching for methanol and $\text{SiO}$ masers in an untargeted way. This has not been done before due to an issue of sensitivity. At 7mm wavelengths, a radio telescope's beam is small (1 minute of arc on the ATCA). Say you want to map a large region of the Galaxy with a small beam; the longer you spend on each point gives you a better sensitivity, but obviously takes longer. Too much time, and the survey is not feasible; too little, and you're not detecting enough emission. Luckily, MALT-45 has a secret weapon: autocorrelation.
+
+Typically, a radio telescope that is composed of multiple dishes (such as the ATCA) is only used for high-resolution studies. The more dishes you have and the further spread they are, the higher the resolution you obtain. This is called interferometry (or cross-correlation), and is wonderful for many research topics in radio astronomy. However, drawbacks to using many dishes in this way include "resolving-out" extended emission, such as the $\text{CS}$ we are looking for. Usually, to map extended emission, you need to use a single dish telescope.
+
+MALT-45 combines each of the dishes of the ATCA, as if they were all single dishes. This effectively multiplies the collecting area of any single dish, almost like having a very large single dish, and yields a much better sensitivity to emission. Without autocorrelation, achieving a similar sensitivity to what we have already accomplished would be painfully slow.
+
+* * *
+
+<div class="row featurette">
+    <div class="col-md-5">
+        <a href="/images/research-page/Som_4_07_p0b.jpg">
+            <img class="img-responsive" title="Gamma Rays from W28" src="/images/research-page/Som_4_07_p0b.jpg">
+        </a>
+    </div>
+    <div class="col-md-7">
+
+        <h1 class="featurette-heading">SHIRTS</h1>
+
+MALT-45 is my exclusive PhD project. However, I have been fortunate enough to collaborate with colleague Courtney Brown, nee Jones at UTAS. The SHIRTS project analyses 3-colour images from GLIMPSE for potential <a href="http://en.wikipedia.org/wiki/H_II_region">$\text{H}\scriptsize\text{II}$ regions</a>, then observes them with the ATCA. Due to the new C/X-band receivers on the ATCA, sensitivity is incredible, and we are able to parameterise the <a href="http://en.wikipedia.org/wiki/H-alpha">$\text{H}\alpha$</a> lines associated with the $\text{H}\scriptsize\text{II}$ regions in very short intervals. <br /><br />
+
+Once we have observed the $\text{H}\scriptsize\text{II}$ regions, we use the velocity information of each to help describe the structure of our Galaxy. This usually means positioning each $\text{H}\scriptsize\text{II}$ region within a spiral arm of the Milky Way. <br /><br /><br />
+
+(Image credit: <a href="http://www.mpi-hd.mpg.de/hfm/HESS/pages/home/som/2007/04/">Max Planck Institute for Nuclear Physics, Heidelberg</a> and H.E.S.S.)
+
+    </div>
+</div>
