@@ -12,7 +12,7 @@ layout: default
     </div>
 
     <div class="panel-body">
-      {{ post.content | strip_html | truncate: 500 }}
+      {{ post.content | strip_html | truncate: 300 }}
     </div>
 
     <div class="panel-footer">
