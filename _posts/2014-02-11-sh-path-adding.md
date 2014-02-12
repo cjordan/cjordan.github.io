@@ -26,7 +26,7 @@ each_version () {
 }
 {% endhighlight %}
 
-**Note that `setopt` and `unsetopt` are a zsh-isms. Use `shopt -s` and `shopt -u` for bash.**
+**Note that `setopt` and `unsetopt` are zsh-isms. Use `shopt -s` and `shopt -u` for bash.**
 
 Put these in your .zshrc (or .bashrc), then use them as:
 
