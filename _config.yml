@@ -4,4 +4,4 @@ description: Personal website of Christopher H. Jordan
 # markdown: rdiscount
 markdown: kramdown
 permalink: pretty
-pygments: true
+highligher: true
