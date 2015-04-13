@@ -10,11 +10,20 @@ If this page happens to be out of date, an [ADS](http://adsabs.harvard.edu) quer
 
 # First author publications
 
+**MALT-45 - II. Follow-up observations of 44GHz class I methanol masers**
+
+**Jordan, Christopher H.** et al.
+
+2015, MNRAS, in progress
+
+<br />
+
+
 **MALT-45: A 7mm survey of the southern Galaxy - I. Techniques and spectral line data**
 
 **Jordan, Christopher H.;** Walsh, Andrew J.; Lowe, Vicki; Voronkov, Maxim A.; Ellingsen, Simon P.; Breen, Shari L.; Purcell, Cormac R.; Barnes, Peter J.; Burton, Michael G.; Cunningham, Maria R.; Hill, Tracey; Jackson, James M.; Longmore, Steven N.; Peretto, Nicolas; Urquhart, James S.
 
-2015, MNRAS, *in press*
+2015, MNRAS, 448, 2344
 
 [ADS](http://adsabs.harvard.edu/abs/2015arXiv150106650J) &bull; [Scholar](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&citation_for_view=bdf2dS8AAAAJ:Y0pCki6q_DkC)
 

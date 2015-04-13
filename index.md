@@ -5,14 +5,14 @@ layout: default
 
 # Welcome to my personal webpage!
 
-I am a fourth year Australian PhD student of astrophysics, studying at the [University of Tasmania](http://www.utas.edu.au/maths-physics/) and [CSIRO Astronomy and Space Science](http://www.csiro.au/Organisation-Structure/Divisions/Astronomy-and-Space-Science.aspx). Currently, my work is focused on researching high mass star formation through molecular spectral lines. Most of my experience in radio astronomy comes from the Australia Telescope Compact Array; with its fantastic new [correlator](http://adsabs.harvard.edu/abs/2011MNRAS.416..832W), we are able to conduct powerful observations in efficient times. My PhD utilises this potential in the MALT-45 project. See the [research](/research) and [publications](/publications) pages for more details.
+I am an Australian PhD student of astrophysics (about to finish), studying at the [University of Tasmania](http://www.utas.edu.au/maths-physics/) and [CSIRO Astronomy and Space Science](http://www.csiro.au/Organisation-Structure/Divisions/Astronomy-and-Space-Science.aspx). Currently, my work is focused on researching high mass star formation through molecular spectral lines. Most of my experience in radio astronomy comes from the Australia Telescope Compact Array; with its fantastic new [correlator](http://adsabs.harvard.edu/abs/2011MNRAS.416..832W), we are able to conduct powerful observations in efficient times. My PhD utilises this potential in the MALT-45 project. See the [research](/research) and [publications](/publications) pages for more details.
 
 When I'm not studying, I enjoy learning new programming languages. [Go](http://golang.org/) holds my fascination at the moment. Another pastime is [Project Euler](http://projecteuler.net/). When I'm not being productive with my time, I like to play video games and watch dramatic film.
 
 
 # Background
 
-Before I studied astrophysics in my PhD degree, I completed a joint engineering-science degree, majoring in electrical engineering and mathematics. My attraction to astronomy stems from our limited overall knowledge; it's fascinating to think that so much of the natural universe still dwells within the realm of "magic." Radio astronomy constantly pushes the reach of our technology, and I'm glad to be helping that push.
+Before I studied astrophysics in my PhD degree, I completed a joint engineering-science degree, majoring in electrical engineering and mathematics. My attraction to astronomy stems from our limited overall knowledge; it's fascinating to think that so much of the natural universe still dwells within the realm of "magic". Radio astronomy constantly pushes the reach of our technology, and I'm glad to be helping that push.
 
 During my PhD I have acquired many hours of teaching, mostly through tutoring undergraduate classes in engineering. More recently, I have been working part-time as a contract observer for [IVS](http://ivscc.gsfc.nasa.gov/) at the University of Tasmania.
 
