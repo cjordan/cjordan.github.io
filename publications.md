@@ -4,7 +4,7 @@ layout: default
 ---
 
 # ADS
-If this page happens to be out of date, an [ADS](http://adsabs.harvard.edu) query against my name will turn up most if not all results. Bear in mind that my "common" name will produce some false positives. Additionally, [Google Scholar](http://scholar.google.com.au/citations?user=bdf2dS8AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Christopher_Jordan4/) may successfully parse my publications.
+If this page happens to be out of date, an [ADS](http://adsabs.harvard.edu) query against my name will turn up most if not all results. Bear in mind that my "common" name will produce some false positives. Additionally, [Google Scholar](http://scholar.google.com.au/citations?user=bdf2dS8AAAAJ&hl=en) may successfully parse my publications.
 
 * * *
 
