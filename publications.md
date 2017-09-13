@@ -3,29 +3,41 @@ title: Publications
 layout: default
 ---
 
-# ADS
 If this page happens to be out of date, an [ADS](http://adsabs.harvard.edu) query against my name will turn up most if not all results. Bear in mind that my "common" name will produce some false positives. Additionally, [Google Scholar](http://scholar.google.com.au/citations?user=bdf2dS8AAAAJ&hl=en) may successfully parse my publications.
 
 * * *
 
 # First author publications
 
-**MALT-45 - II. Follow-up observations of 44GHz class I methanol masers**
+**Characterization of the ionosphere above the Murchison Radio Observatory using the Murchison Widefield Array**
 
-**Jordan, Christopher H.** et al.
+**Jordan, C. H.;** Murray, S.; Trott, C. M.; Wayth, R. B.; Mitchell, D. A.; Rahimi, M.; Pindor, B.; Procopio, P.; Morgan, J.
 
-2015, MNRAS, in progress
+2017, MNRAS, 471, 3974-3987
+
+[ADS](http://adsabs.harvard.edu/abs/2017MNRAS.471.3974J)
+
+<br />
+
+
+**MALT-45: A 7 mm survey of the southern Galaxy - II. ATCA follow-up observations of 44 GHz class I methanol masers**
+
+**Jordan, Christopher H.;** Walsh, Andrew J.; Breen, Shari L.; Ellingsen, Simon P.; Voronkov, Maxim A.; Hyland, Lucas J.
+
+2017, MNRAS, 471, 3915-3954
+
+[ADS](http://adsabs.harvard.edu/abs/2017MNRAS.471.3915J)
 
 <br />
 
 
 **MALT-45: A 7mm survey of the southern Galaxy - I. Techniques and spectral line data**
 
-**Jordan, Christopher H.;** Walsh, Andrew J.; Lowe, Vicki; Voronkov, Maxim A.; Ellingsen, Simon P.; Breen, Shari L.; Purcell, Cormac R.; Barnes, Peter J.; Burton, Michael G.; Cunningham, Maria R.; Hill, Tracey; Jackson, James M.; Longmore, Steven N.; Peretto, Nicolas; Urquhart, James S.
+**Jordan, C. H.;** Walsh, A. J.; Lowe, V.; Voronkov, M. A.; Ellingsen, S. P.; Breen, S. L.; Purcell, C. R.; Barnes, P. J.; Burton, M. G.; Cunningham, M. R.; Hill, T.; Jackson, J. M.; Longmore, S. N.; Peretto, N.; Urquhart, J. S.
 
 2015, MNRAS, 448, 2344
 
-[ADS](http://adsabs.harvard.edu/abs/2015arXiv150106650J) &bull; [Scholar](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&citation_for_view=bdf2dS8AAAAJ:Y0pCki6q_DkC)
+[ADS](http://adsabs.harvard.edu/abs/2015MNRAS.448.2344J) &bull; [Scholar](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&citation_for_view=bdf2dS8AAAAJ:Y0pCki6q_DkC)
 
 <br />
 
@@ -43,6 +55,61 @@ If this page happens to be out of date, an [ADS](http://adsabs.harvard.edu) quer
 
 
 # Other publications
+
+**A first look for molecules between 103 and 133 MHz using the Murchison Widefield Array**
+
+Tremblay, Chenoa D.; Hurley-Walker, Natasha; Cunningham, Maria; Jones, Paul A.; Hancock, Paul J.; Wayth, Randall; **Jordan, Christopher H.;**
+
+2017, MNRAS, 471, 4144-4154
+
+[ADS](http://adsabs.harvard.edu/abs/2017MNRAS.471.4144T)
+
+<br />
+
+
+**An Improved Statistical Point-source Foreground Model for the Epoch of Reionization**
+
+Murray, S. G.; Trott, C. M.; **Jordan, C. H.;**
+
+2017, ApJ, 845
+
+[ADS](http://adsabs.harvard.edu/abs/2017ApJ...845....7M)
+
+<br />
+
+
+**The Southern HII Region Discovery Survey (SHRDS): Pilot Survey**
+
+Brown, C.; **Jordan, C.;** Dickey, John M.; Anderson, L. D.; Armentrout, W. P.; Balser, Dana S.; Bania, T. M.; Dawson, J. R.; McClure-Griffiths, N. M.; Wenger, Trey V.
+
+2017, AJ, 154
+
+[ADS](http://adsabs.harvard.edu/abs/2017AJ....154...23B)
+
+<br />
+
+
+**Accurate OH Maser Positions from the SPLASH Pilot Region**
+
+Qiao, Hai-Hua; Walsh, Andrew J.; Green, James A.; Breen, Shari L.; Dawson, J. R.; Ellingsen, Simon P.; Gómez, José F.; **Jordan, Christopher H.;** Shen, Zhi-Qiang; Lowe, Vicki; Jones, Paul A.
+
+2016, ApJS, 227
+
+[ADS](http://adsabs.harvard.edu/abs/2016ApJS..227...26Q)
+
+<br />
+
+
+**Accurate water maser positions from HOPS**
+
+Walsh, A. J.; Purcell, C. R.; Longmore, S. N.; Breen, S. L.; Green, J. A.; Harvey-Smith, L.; **Jordan, C. H.;** Macpherson, C.
+
+2014, MNRAS, 442, 2240-2252
+
+[ADS](http://adsabs.harvard.edu/abs/2014MNRAS.442.2240W)
+
+<br />
+
 
 **Molecular line mapping of the giant molecular cloud associated with RCW 106 - IV. Ammonia towards dust emission**
 
