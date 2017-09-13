@@ -4,6 +4,14 @@ layout: research
 ---
 
 # Research interests
+## Epoch of Reionisation and the Ionosphere
+These days, I'm working as a low-frequency radio astronomer with the [MWA](http://mwatelescope.org/), with the ultimate goal of detecting the [Epoch of Reionisation](http://astronomy.curtin.edu.au/research/epoch-of-reionisation/). To aid detection of the EoR, much of my recent research has involved characterisation of ionospheric activity.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mCCiaJ_qS8E?rel=0" frameborder="0" allowfullscreen></iframe>
+
+More to come...
+
+## Star formation
 My exposure within star formation research includes:
 
 + dense gas tracers, such as $\text{CS}$ $(1-0)$ and $\text{NH}_3$ $(1,1)$
@@ -16,9 +24,6 @@ As I'm an observational astronomer, I am interested working with other instrumen
 
 Currently, I have around 350 hours of experience on the Australia Telescope Compact Array, particularly with its relatively new 64M-32k correlator mode.
 
-* * *
-
-# Background: Star formation
 Perhaps before touching on the question "what is star formation?" we should ask, what are stars?
 
 * * *
